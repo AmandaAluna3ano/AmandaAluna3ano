@@ -5,7 +5,7 @@ estou me desenvolvendo na linguagem JavaScript,
 utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 <!--
 **AmandaAluna3ano/AmandaAluna3ano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://images.app.goo.gl/t7y4TRzn3QGpzHKP8)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
